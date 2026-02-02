@@ -1,0 +1,22 @@
+$ python src/main.py
+
+Interfaces disponibles:
+
+1. Ethernet
+2. Wi-Fi
+3. vEthernet (Default Switch)
+4. VMware Network Adapter VMnet8
+
+Número de interfaz (ENTER = auto Ethernet):
+
+📡 Usando interfaz: Ethernet
+⏳ Escaneando CDP...
+
+✅ CDP detectado
+Hostname : switch_ciso
+IP       : xxx.xxx.xxx.xxx
+Puerto   : FastEthernet0/x
+Interfaz : Ethernet
+Tiempo   : 4.18 s
+
+NOTA: "TENER CONECTADO EL CABLE AL SWITCH ANTES DE CORRER EL PROGRAMA"
