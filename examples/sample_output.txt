@@ -1,4 +1,4 @@
-$ python src/main.py
+$ python -m src.main
 
 Interfaces disponibles:
 
@@ -18,5 +18,6 @@ IP       : xxx.xxx.xxx.xxx
 Puerto   : FastEthernet0/x
 Interfaz : Ethernet
 Tiempo   : 4.18 s
+
 
 NOTA: "TENER CONECTADO EL CABLE AL SWITCH ANTES DE CORRER EL PROGRAMA"
