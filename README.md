@@ -15,7 +15,7 @@ usando Tshark en Windows.
 
 - Windows
 - Python 3.9+
-- Wireshark / Tshark
+- Wireshark / Tshark (descargar la version portable y agregarla en el proyecto como carpeta con nombre Wireshark)
 - Npcap (modo WinPcap compatible)
 
 ### Dependencias internas de Tshark
@@ -26,11 +26,12 @@ usando Tshark en Windows.
 ## 🚀 Uso
 
 ```bash
-python src/main.py
+python -m src.main
 
 ## 📄 Example Output
 
 See [examples/sample_output.txt](examples/sample_output.txt)
 
 📁 Para más detalles, revisa la estructura del proyecto en
+
 [PROJECT_STRUCTURE.md](PROJECT_STRUCTURE.md)
