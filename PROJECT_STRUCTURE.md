@@ -38,5 +38,6 @@ cdp-discovery/
       *
 	  *
 	  *
-  # Ejecutable opcional de Tshark incluido localmente(version portable)
+  # Recomiendo descarga la version portable y agregarla en el proyecto en una carpeta con este nombre
+
   # (puede usarse el instalado en el sistema)
